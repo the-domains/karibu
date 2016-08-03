@@ -1,4 +1,3 @@
-layout_spectrum: 0.4688790808431804
 typography_spectrum: 0.8849392449483275
 color:
   brandStrength: 0.4794881690759212
@@ -6,9 +5,14 @@ color:
   saturation: 0.12176037603057921
   rhythmicContrast: 0.20875570457428694
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.4688790808431804
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e83f4c1-f37f-474b-a42c-96333c94ac71.png
 name: KARIBU
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6da7f635-b558-4000-8ce5-941d84298424.ico
