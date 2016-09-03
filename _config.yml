@@ -14,5 +14,9 @@ layout_spectrum: 0.4688790808431804
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e83f4c1-f37f-474b-a42c-96333c94ac71.png
 name: KARIBU
+navigation:
+  - name: Karibu
+    url: 'https://karibu.cool'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6da7f635-b558-4000-8ce5-941d84298424.ico
