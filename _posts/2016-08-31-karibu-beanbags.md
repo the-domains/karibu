@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T17:59:05.876Z'
+datePublished: '2016-08-31T17:59:05.887Z'
 inFeed: true
 isBasedOnUrl: 'https://www.karibu.cool/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T17:57:51.918Z'
+dateModified: '2016-08-31T17:56:54.939Z'
 title: Karibu Beanbags
 app_links: []
 publisher:
